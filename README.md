@@ -22,7 +22,7 @@ I specialize in building **data processing pipelines**, automating workflows, an
 ## 📊 GitHub Stats  
 ![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashLaxmichandSahu&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashLaxmichandSahu&layout=compact&theme=dark)  
-!Profile Views:(https://komarev.com/ghpvc/?username=YashLaxmichandSahu&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=YashLaxmichandSahu&color=blue)
 
 ---
 
